@@ -18,7 +18,7 @@ language = "python3"
 run = "python hangman_template.py"
 ```
 
-If you are doing question 2 (Hackathon Matching), change line 2 to
+If you are doing question 2 (Hackathon Matching), change the content to:
 ```
 language = "python3"
 run = "python hackathonmatching_template.py"
