@@ -50,7 +50,7 @@ else:
   position = ...
 
 # List of 10 fields to choose from for the person's interest
-fields = ...
+fields = ['AI', 'Blockchain', 'Augmented Reality', 'Virtual Reality', 'Internet of Things', 'Big Data', 'Fintech', 'eCommerce', 'Healthcare', 'Environment']
 
 print('Please enter 3 numbers of the fields you are interested in from this list')
 
